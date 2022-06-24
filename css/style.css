@@ -10,8 +10,8 @@ h1 {
 }
 
 img {
-    height: 28rem;
-    width: 35rem;
+    height: 40rem;
+    width: 60rem;
 }
 
 #img-div {
@@ -29,8 +29,9 @@ ul {
     flex-direction: column;
     justify-content: center;
     margin-top: 50px;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 50px;
 }
 
 .quote {
